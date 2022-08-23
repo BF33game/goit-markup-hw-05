@@ -162,7 +162,7 @@ body{
     padding: 200px 0;
     background-color: var(--background-color);
     text-align: center;
-    background-image:linear-gradient( rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)),url("../Images/img.jpg");
+    background-image:linear-gradient( rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)),url("../images/img.jpg");
 
 }
 .hero{
