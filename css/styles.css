@@ -558,7 +558,7 @@ margin-bottom: 20px;
     transition: transform var(--transform--);
 }
 .backdrop.is-hidden .modal{
-    transform: translate(50%,50%)scale(0) rotate(0) ;
+    transform: translate(-50%,-50%)scale(0) rotate(0);
 }
 .is-hidden{
     opacity: 0;
